@@ -1,0 +1,33 @@
+FT         PID         QT        WT
+30         1002         2         14
+32         1008         8         12
+35         1003         3         16
+39         1017         17         11
+44         1018         18         13
+53         1005         5         24
+59         1023         23         19
+62         1012         12         25
+63         1015         15         24
+66         1006         6         30
+68         1014         14         27
+73         1011         11         31
+74         1024         24         25
+76         1020         20         28
+77         1028         28         27
+89         1009         9         40
+103         1027         27         38
+107         1029         29         39
+118         1026         26         46
+126         1030         30         60
+138         1025         25         76
+...........................................................
+patients:21    [NP:2, SP :8 , EP :11]
+Hospitals = 5
+cars:21        [SCar:10, NCar:11 ]
+Avg wait time = 29
+Percentage of EP =52%
+Avg busy time = 442
+Avg utilization = 3%
+no of failed cars = 0   0 %
+Number of failed hospitals= 0   0 %
+Number of cars went out of eservice due to hospital failure=0
